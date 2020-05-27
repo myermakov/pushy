@@ -1,0 +1,5 @@
+format="json"
+User = 
+Password = 
+Subject = "test"
+MessageTypeID = 1
